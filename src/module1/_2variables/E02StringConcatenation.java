@@ -17,7 +17,8 @@ public class E02StringConcatenation {
 		System.out.println("Won? " + won);
 
 		String name = "Jose";
-		System.out.println("Hi " + name);
+		System.out.println("Hi" + name);
+	
 	}
 }
 
